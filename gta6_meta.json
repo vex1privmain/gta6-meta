@@ -1,0 +1,14 @@
+{
+  "name": "GTA VI",
+  "symbol": "GTA6",
+  "description": "Welcome to Leonida. 2026. The wait is over. GTA VI drops tomorrow — this one drops with it. No roadmap. No team. Just the city. 🌴",
+  "image": "https://raw.githubusercontent.com/vex1privmain/gta6-meta/main/gta6.png",
+  "extensions": {
+    "coingecko": {
+      "contract": null
+    },
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  }
+}
